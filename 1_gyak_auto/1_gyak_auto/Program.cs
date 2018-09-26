@@ -14,3 +14,13 @@ namespace _1_gyak_auto
         }
     }
 }
+namespace autonevter.futtathato
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+        }
+    }
+}
